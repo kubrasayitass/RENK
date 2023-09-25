@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\bin\Debug\form reng programı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\bin\Debug\form reng programı.exe
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\bin\Debug\form reng programı.pdb
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form_reng_programı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form_reng_programı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.exe
+C:\Users\User\Desktop\KORUMASIZ\kübrataş\form reng programı\form reng programı\obj\Debug\form reng programı.pdb
